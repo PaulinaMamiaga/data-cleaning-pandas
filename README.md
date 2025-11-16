@@ -24,7 +24,7 @@
 🔓 *“Imagine you’re a traveler planning a surfing trip to Australia. You buy a standard insurance policy, but behind the scenes, the insurer has no idea that your activity, destination, and travel season all dramatically increase your risk.
 That’s where our analysis comes in.”*
 
-This project analyzes shark incident data over the last 50 years to understand how activity type, seasonality, geography, and age influence risk levels. The goal is to demonstrate data cleaning, exploratory data analysis, and risk interpretation from a business perspective (insurance industry).
+>This project analyzes shark incident data over the last 50 years to understand how activity type, seasonality, geography, and age influence risk levels. The goal is to demonstrate data cleaning, exploratory data analysis, and risk interpretation from a business perspective (insurance industry).
 
 
 As part of the Ironhack Data Analytics Bootcamp. The project focuses on transforming raw shark incident data into actionable insights that could support risk assessment and pricing decisions within an insurance company.
