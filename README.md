@@ -1,6 +1,8 @@
 ![Header](./Visuals/header_readme.png)
-
-# Risk Factors for Ocean Activities -  Insights for Insurance Pricing
+>
+>
+>
+> # Risk Factors for Ocean Activities -  Insights for Insurance Pricing
 
 <details>
   <summary><strong>📑 Table of Contents</strong></summary>
@@ -17,7 +19,7 @@
 
 </details>
 
-## Project Overview
+> ## Project Overview
 
 🔓 *“Imagine you’re a traveler planning a surfing trip to Australia. You buy a standard insurance policy, but behind the scenes, the insurer has no idea that your activity, destination, and travel season all dramatically increase your risk.
 That’s where our analysis comes in.”*
@@ -42,7 +44,7 @@ This project was developed using the following technologies and libraries:
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Objectives
+> ## Objectives
 - Clean and preprocess inconsistent shark incident records  
 - Analyze patterns in activity, age, seasonality, geography, and injury types  
 - Extract insights relevant for insurance pricing and coverage design  
@@ -77,7 +79,7 @@ The dataset required extensive cleaning due to:
 
 
 
-## Key Insights & Visuals
+> ## Key Insights & Visuals
 
 This section summarizes the main analytical insights of the project, supported by visualizations.  
 Each chart links a **hypothesis** to an **interpretation** that could be relevant for insurance risk and pricing.
@@ -146,7 +148,7 @@ Introducing **age-based risk pricing** can improve premium accuracy and reduce c
 
 ![Business Impact](./Visuals/business_impact.png)
 
-## Business Impact (Hypothetical)
+> ## Business Impact (Hypothetical)
 
 The insights from this project can support **risk-based decision making** in the insurance industry.  
 Although no real financial calculations were performed (due to lack of pricing and claims data), the analysis suggests several potential areas of business impact:
@@ -240,7 +242,8 @@ As a next step, this project could be extended by:
 This would transform the project from a **risk insight analysis** into a **full business-impact and pricing optimization case**.
 
 ![Limitatios & Next Steps](./Visuals/limitations_nextsteps.png)
-## Limitations & Next Steps
+>
+> ## Limitations & Next Steps
 
 ### Limitations
 
@@ -298,7 +301,7 @@ From a learning perspective, this project can be extended in future bootcamp or 
 
 Overall, this project should be seen as a **solid first step**: it transforms raw incident data into structured insights and a clear framework for decision-making. With additional data and cross-functional collaboration, it could evolve into a **fully operational tool** for risk-based insurance pricing and product design.
 
-## 🤝 Contributions
+> ## 🤝 Contributions
 Every contribution is more than a line of code - 
 it’s a step toward a world where data tells stories, guides decisions, and brings humanity and intelligence closer together.
 If something here sparks your curiosity, inspires you, or makes you think “This could be even better,” then you’re already part of the journey.
