@@ -7,16 +7,21 @@ That’s where our analysis comes in.”*
 
 This project analyzes shark incident data to understand how activity type, seasonality, geography, and age influence risk levels. The goal is to demonstrate data cleaning, exploratory data analysis, and risk interpretation from a business perspective (insurance industry).
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Dataset](#dataset)
-- [Data Cleaning Process](#data-cleaning-process)
-- [Analysis Notebooks](#analysis-notebooks)
-- [Key Insights](#key-insights)
-- [Business Impact](#business-impact)
-- [Limitations](#limitations)
-- [Team](#team)
+<details>
+  <summary><strong>📑 Table of Contents</strong></summary>
+
+  - [Project Overview](#project-overview)
+  - [Objectives](#objectives)
+  - [Dataset](#dataset)
+  - [Data Cleaning Process](#data-cleaning-process)
+  - [Analysis Notebooks](#analysis-notebooks)
+  - [Key Insights](#key-insights)
+  - [Business Impact](#business-impact)
+  - [Limitations](#limitations)
+  - [Team](#team)
+
+</details>
+
 
 ## Project Overview
 This project is part of the Ironhack Data Analytics Bootcamp. It focuses on transforming raw shark incident data into actionable insights that could support risk assessment and pricing decisions within an insurance company.
