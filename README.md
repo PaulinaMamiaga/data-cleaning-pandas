@@ -1,6 +1,6 @@
 ![Header](./Visuals/header_readme.png)
 
-# Risk Factors for Ocean Activities: Insights for Insurance Pricing
+# Risk Factors for Ocean Activities -  Insights for Insurance Pricing
 
 🔓 *“Imagine you’re a traveler planning a surfing trip to Australia. You buy a standard insurance policy, but behind the scenes, the insurer has no idea that your activity, destination, and travel season all dramatically increase your risk.
 That’s where our analysis comes in.”*
