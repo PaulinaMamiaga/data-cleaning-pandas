@@ -2,7 +2,10 @@
 
 # Risk Factors for Ocean Activities: Insights for Insurance Pricing
 
-🔓 This project analyzes shark incident data to understand how activity type, seasonality, geography, and age influence risk levels. The goal is to demonstrate data cleaning, exploratory data analysis, and risk interpretation from a business perspective (insurance industry).
+🔓 *“Imagine you’re a traveler planning a surfing trip to Australia. You buy a standard insurance policy, but behind the scenes, the insurer has no idea that your activity, destination, and travel season all dramatically increase your risk.
+That’s where our analysis comes in.”*
+
+This project analyzes shark incident data to understand how activity type, seasonality, geography, and age influence risk levels. The goal is to demonstrate data cleaning, exploratory data analysis, and risk interpretation from a business perspective (insurance industry).
 
 ## Table of Contents
 - [Project Overview](#project-overview)
